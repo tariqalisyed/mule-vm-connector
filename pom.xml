@@ -24,6 +24,7 @@
     <properties>
         <formatterConfigPath>formatter.xml</formatterConfigPath>
         <muleTestsComponentPlugin>${mule.version}</muleTestsComponentPlugin>
+        <runtimeVersion>4.3.0-SNAPSHOT</runtimeVersion>
     </properties>
 
     <distributionManagement>
